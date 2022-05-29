@@ -1,0 +1,54 @@
+.NavBar{
+
+
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: #c94c4c;
+margin: auto -16px;
+   
+
+
+}
+.title{
+font-size: 40px;
+font-weight: 200;
+margin-left: 1 rem;
+color: azure;
+font-weight: bolder;
+
+
+
+}
+.list{
+
+display: flex;
+margin: 25 px;
+
+
+
+}
+navElement{
+
+
+display: flex;
+
+
+}
+
+li {
+
+margin: 0 1rem;
+
+
+
+}
+a {
+
+font-size: 40px;
+font-weight: 200;
+text-decoration: none;
+color: azure;
+font-weight: bolder ;
+
+}
